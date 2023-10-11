@@ -1,0 +1,11 @@
+multibranch-action-triggers
+branch-api
+cloudbees-folder
+multibranch-scan-webhook-trigger
+git
+basic-branch-build-strategies
+workflow-job
+workflow-multibranch
+workflow-cps
+katalon
+pipeline-model-definition
